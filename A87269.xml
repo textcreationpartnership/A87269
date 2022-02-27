@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from Pope Innocent the XII to the emperour, wherein he indeavours to perswade him to a peace; with His Imperial Majesties answer. : To which is subjoyned the resolutions of the confederates in the present conjuncture. / Done out of French.</title>
+            <author>Innocent XII, Pope, 1615-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87269</idno>
+            <idno type="STC">Wing I204A</idno>
+            <idno type="STC">ESTC R178676</idno>
+            <idno type="EEBO-CITATION">43078088</idno>
+            <idno type="OCLC">ocm 43078088</idno>
+            <idno type="VID">151576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151576)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2265:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from Pope Innocent the XII to the emperour, wherein he indeavours to perswade him to a peace; with His Imperial Majesties answer. : To which is subjoyned the resolutions of the confederates in the present conjuncture. / Done out of French.</title>
+                  <author>Innocent XII, Pope, 1615-1700.</author>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills, in Black-Fryers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Foot of p. 2 has date: At Vienna, the 2[?] of June, 1692.</note>
+                  <note>Reproduction of original in: Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:151576:1" rendition="simple:additions"/>
+            <head>A Letter from Pope <hi>Innocent</hi> the XII. to the Emperour, where<g ref="char:EOLhyphen"/>in He Indeavours to perſwade Him to a Peace; With His Im<g ref="char:EOLhyphen"/>perial Majeſties anſwer. To which is ſubjoyned the Reſo<g ref="char:EOLhyphen"/>lutions of the Confederates in the preſent Conjuncture.</head>
+            <head>Done out of French.</head>
+            <floatingText type="letter">
+               <body>
+                  <p>MOST Beloved Son in Jeſus Chriſt; We great you with Health and our Apoſtolical Benediction. When from this ſublime poſt, exalted almoſt to Heaven, in which, as unworthy as we were of it, we are placed, We caſt our eyes upon ſo many faithful People that are committed to Our Paſtoral care; We are almoſt ready to expire with the exceſſive Grief and Melancholy we are affected with, at the view of all thoſe great calamities, to which they are expoſed by this cruel War, which at preſent afflicts almoſt all Chriſtendom. And therefore being deeply concerned at the great and piercing clamours of ſo many Perſons thereby expoſed to Deſtruction; And being ſo very well aſſured of your Majeſties pious inclinations, and of the great deſire you have, to promote the advantage of the Chriſtian Commonwealth, We have reſolved to employ with your Majeſty, the ſame Prayer we continually without ceaſing addreſs to the Fathers of Mercies, <hi>That it would pleaſe him to diſſipate thoſe dreadful Storms from whence ſo many Evils proceed, and to make them give place to a ſucceeding Calm of Peace ſo much deſired.</hi>
+                  </p>
+                  <p>We hope, that taking into your Conſideration, the greatneſs of our Sorrow, and having a careful regard to the Miſeries of ſo many poor People, and the dying groans of thoſe that are daily ſlain in the War, you will be the more confirmed in the Inclination you have for Peace, and that you'l labour to augment it. And certainly when you ſhall have made a ſerious Reflection upon the ungovernable Licenciouſneſs of Soldiers, and upon the contempt that ſort of Men have for Sacred things, and upon the loſs of ſo many Souls as we have juſt occaſion to fear, Conſiderations which wound us to the heart with grief, We cannot doubt; but ſuffring your ſelf to be ſwayed by the motion of your natural Piety, you will readily form a Deſign for the procuring the repoſe of ſo many ruined People, the Reeſtabliſhment of God's Service, and the Salvation of Souls: Moſt ſure it is you can in no juſter or fitter manner acknowledge thoſe benefits, which the Authour of all Good has ſo abundantly beſtowed upon Your Majeſties Sacred Perſon, than by reeſtabliſhing the Heritage which the Lord Jeſus Chriſt left by his Teſtament, to his Church, before he aſcended into Heaven.</p>
+                  <p>Wherefore employ your whole endeavours as far as in you lies, Moſt Beloved Son in Jeſus Chriſt, towards the eaſing of the Chriſtian Commonwealth from thoſe miſeries with which it is now afflicted; And propoſe for your aim, the Glory which they ſhall receive; who by procuring the Peace of that Commonwealth, ſhall benefit it with an unexpreſſible felicity, and the Applauſes of the People thereby Reſetled, who will never ceaſe to proclaim the juſt praiſes of the Authours of their tranquility.</p>
+                  <p>As for Us, We will put in practice all that we can think of to facilitate to Your Majeſty, and to all the reſt of the Chriſtian Princes, the means of putting in execution a Work ſo uſeful and ſo advantagious.</p>
+                  <pb n="2" facs="tcp:151576:2" rendition="simple:additions"/>
+                  <p>In this Expectation, We moſt heartily give you our Apoſtolical Benediction, as in aſſured earneſt of our good will.</p>
+                  <closer>
+                     <dateline>Given at Rome, at the Church of St. Marie Major, under the Seal of the Fiſher, <date>the 8 of <hi>Decemb.</hi> 1691. and in the firſt year of our Pon<g ref="char:EOLhyphen"/>tificat.</date>
+                     </dateline>
+                     <signed>MARIUS SPINOLA.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <head>The Emperours Anſwer to the Pope.</head>
+                  <opener>
+                     <salute>Moſt Holy Father,</salute>
+                  </opener>
+                  <p>YOUR Holineſſes Letter dated the 8th, of laſt Month, has ſufficiently informed us of the cruel di<g ref="char:EOLhyphen"/>ſturbances you are affected with, at the view of thoſe many Evils which the Chriſtian People is overwhelmed with by the War at preſent enkindled almoſt every where, and of your Holineſſes care to moderate and calm the animoſities raging between the ſeveral Irritated Princes, and to diſpoſe them to Peace and Concord. And indeed the calamities which the Chriſtian Commonwealth ſuffers by this War ſo unjuſtly enterpriſed, together with thoſe it is farther threatned with thereby, no leſs afflict Us than they do your Holineſs.</p>
+                  <p>But our comfort is, That God and our Conſcience bear Us Witneſs, that the fault cannot be im<g ref="char:EOLhyphen"/>puted to Us, ſince We took not up Arms, but when there was a neceſſity ſo to do, for the Defence of the Empire, and of the People committed to our Protection, againſt thoſe who attacked them. The moſt inward thoughts of our Heart are ſo well known to your Holineſs, by the long acquaintance and converſe you have had formerly with Us, That you will eaſily believe, there could happen nothing more diſpleaſing to Us, than to ſee the Love We naturally are byaſſed with for the Peace, and tran<g ref="char:EOLhyphen"/>quility of the Publick, to be continually diſobliged, and forcibly turned towards the contrary extrem, by freſh injuries daily perpetrated againſt Us, and above all things, by the Ambition and Malicious envy of France.</p>
+                  <p>For the Reſpect which is univerſally granted to be due to the Publick Faith, and to Solemn Treaties, has not hitherto been of any force to bridle that Crown from violating them as often as they have been Sworn to. And to paſs under ſilence ſeveral other things, the Chriſtian World with ſighs beholds, and poſterity with horrour will hear related, that it has been poſſible for a King moſt Chriſtian, to fix upon a reſolution to ſtop the Rapid Courſe of our Victories over the Infidels, to break thoſe Bands of Amity We had but a little before renewed with him, and to make a freſh War upon Us, juſt at the moment when truſting in the Faith of thoſe Treaties ſo lately made with him, We lived in all manner of ſecurity, and to fill all Places with Murthers, Rapines, and Burnings, before he was pleaſed to inform Us for what Reaſon he Renewed the War, and what juſt pretence We had given him for it. Certainly it muſt needs have been done upon this principle, That it was much more eligible to trample under foot all things bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Divine and Humane, than for <hi>France</hi> to have loſt the oppornity to extend her Limits to the Rhine-ward, and to leave to Us and the reſt of Chriſtendom, the leiſure neceſſary ſuc<g ref="char:EOLhyphen"/>ceſsfully to finiſh the War with the <hi>Turks,</hi> and to ſecure our Frontiers on that ſide.</p>
+                  <p>And therefore the Auguſt Dignity with which We are inveſted, obliged Us to make the beſt Alliances We could, to defend our ſelves and People againſt the Arms of the moſt Chriſtian King, and at the ſame time againſt the Enemies of the Chriſtian Name, Who by a ſhameful union Act in conſort a<g ref="char:EOLhyphen"/>gainſt Us. 'Tis true the principal Condition of the Alliance by which we are engaged to our Confede<g ref="char:EOLhyphen"/>rates, is, That We ſhall not have power to hearken to any ſeparate Treaty of Peace, without firſt con<g ref="char:EOLhyphen"/>ſulting of it conjointly with them, but as we can very well anſwer for them, that they no leſs deſire than We, to ſee Peace Reeſtabliſhed in the Chriſtian World, by the Reinforcement of the Articles of Pacification concluded at the <hi>Pyrenean</hi> and <hi>Weſtphalian</hi> Treaties, which have been violated by <hi>France.</hi> It will be neceſſary above all things, for your Holineſs to employ all your beſt offices and that with the utmoſt efficacy you can, to induce the King of <hi>France</hi> to reſtore things to the State required by the Arti<g ref="char:EOLhyphen"/>cles of thoſe two Treaties, as he himſelf teſtifies to be inclin'd to do.</p>
+                  <p>If Your Holineſs can obtain from that Prince a thing ſo juſt, We will not be wanting on our ſide, to uſe our utmoſt endeavours, that the Pious Intentions of your Holineſs for the good of Chriſtendom, and the offer of your Paternal care and good offices for the advancement of Peace, which are to Us moſt acceptable, may be embraced by our Allies, and produce their deſired effect. This is what We thought our duty to Anſwer to your Holineſſes Letter, which was ſo pleaſing to Us, and which We have accord<g ref="char:EOLhyphen"/>ingly done, with all due Reſpect to Your Holineſs; Whom We pray God long to preſerve both for the good of the Church in General, and Our own in Particular.</p>
+                  <closer>
+                     <dateline>
+                        <hi>At Vienna,</hi> 
+                        <date>
+                           <hi>the 20th of Janu. 1692.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <div type="part">
+               <pb n="3" facs="tcp:151576:3"/>
+               <head>
+                  <hi>The Reſolution taken by the Confederate Princes, and other Allied Powers, in Relation to</hi> France.</head>
+               <p>HAVING Reſolv'd to make this Year, a Deſcent into <hi>France,</hi> that by ſo attac<g ref="char:EOLhyphen"/>king Our Common Enemy where Our efforts may be moſt ſenſibly felt, We may the more eaſily Reduce him to Reaſon: In order thereunto, We firſt, all Solemnly Swear, and Proteſt before God, That We will make no Peace with <hi>Lewis</hi> the Four<g ref="char:EOLhyphen"/>teenth, but upon the conditions Stipulated by the Articles of the <hi>Pyrenean,</hi> and <hi>Weſt-phalian</hi> Treaties which have been violated by <hi>France,</hi> and upon thoſe other agrements which We have hereunto Subjoyned, which tho' they be partly the Fundamental Rights of the <hi>French</hi> Nation, and partly priviledges confirm'd by the moſt ſolemn E<g ref="char:EOLhyphen"/>dicts, have been with no leſs violence and injuſtice infring'd.</p>
+               <p n="1">I. Till the General Eſtates of the Kingdom be reſtored to their Ancient Liberties, Power, and Share in the Legiſlative and ſuprem Power; and till both the Clergy, Nobility, and Third Eſtate be Reinſtated in all their former Legal priviledges; And till there be good proviſion made, that all Kings of <hi>France</hi> in time to come, ſhall be obliged to con<g ref="char:EOLhyphen"/>voke the ſaid Eſtates, when they ſhall need mony for any Publick concerns, and ſhall have no power, in any manner, or upon any pretence whatſoever, to raiſe any Taxes, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o any ſort of Impoſts without their Conſent.</p>
+               <p n="2">II. Till the ſeveral Courts of Parliament in the Kingdom be reinſtated into that ſufficient and Legal authority with which they were primarily inveſted, That ſo without being awed by any check from an arbitrary Power, or being obſtructed by the corruptions ordinarily ariſing from undue and illegal promotions to thoſe high Poſts of Judicature, they may be both able, and well inclined to do juſtice indifferently to all Parties.</p>
+               <p n="3">III. Till all the Cities of the Kingdom be reſtored to their old Charters and Priviledges, and to the Revenues aſſigned for their ſupport and the Publick good of their ſeveral Corporations which have been ſo Inhumanly, and unjuſtly Raviſhed from Them.</p>
+               <p n="4">IV. Till all thoſe Swarms of <hi>Caterpillers</hi> of Monopoliſts, pernicious Publicans, and Far<g ref="char:EOLhyphen"/>mers of the Royal Revenues, and other oppreſſed undertakers be Removed, and all the illegal and new invented Charges and Taxes be taken off, as in particular, the Irregu<g ref="char:EOLhyphen"/>lar Lodging and Quartering both of Courtiers and Soldiers, the exactions for Winter-quarters, the ſalaries of Governors, and Multitude of Sham Debts and private buſineſſes of the Crown, unneceſſarily and without authority charged upon particular Perſons, Towns, or Cities, and which enter not into the State or Accounts of the publick Re<g ref="char:EOLhyphen"/>venues; of Extraodinary exciſes upon Wine, Cider, and other Liquors, the <hi>Gabelle</hi> upon Corn, and Flour, upon Hoofed Beaſts, and Salt, the unreaſonable and unexam<g ref="char:EOLhyphen"/>pled impoſts upon the Marks of Paper, Mony, and all Utenſils, or Movables made of Metal, upon Hats, Silk-ſtockings, Wools, and Wollen Manufactures, Shoes, Slipers, Wooden Shoes, all ſorts of Linen, and Perriwigs; as alſo upon Tobacco, Coffee, Tea, Chocolate, <hi>&amp;c.</hi> upon all Manufactures of Silk, and upon all the Eſtates and Goods of Noble or Geutlemen every five Years, the Taxe of the <hi>Frank Fifs,</hi> and ſeveral other oppreſſive exactions upon the Buyers and Sellers, or Morgagers of Lands, Houſes, <hi>&amp;c.</hi> and upon the Officers of the Courts of Judicature, and of the Treaſury and Exchequer;
+<pb n="4" facs="tcp:151576:4"/>of the Injurious, and Arbetrary Retrenchment of Wages, Raiſing or Lowering the value, and debaſing the purity of Mony and Coin, and unjuſt Reunion to the Crown Lands, and poſſeſſions long enjoyed by great and deſerving Families, upon Diſpotical pretences, and beſides an infinite many other new and unheard of exactions; of the ſtrange impoſitions upon Marriages, Chriſtnings, Buryings, and Baſtards, <hi>&amp;c.</hi> and to conclude all in a Word: Till the Revenues of the Crown be Fixed, and Reduced with<g ref="char:EOLhyphen"/>in ſuch certain and moderate Bounds as ſhall ſeem moſt Requiſite to the wiſdom of the General Eſtates when Conven'd; and good proviſion be made that no ſucceeding French Monarchs ſhall ever paſs thoſe bounds.</p>
+               <p n="5">V. Till he has Rendred to all the Proteſtants of his Kingdoms the Eſtates, Effects, and Liberties they were ſeiſed of by vertue of the Edict of <hi>Nants,</hi> and all other priviledges they injoyed thereby according to the true meaning, and to the full extent of the ſaid Edict: And till for their future ſecurity both in their Civil, and Religious Rights and Capacities, according to the meaning of the ſaid Edict, the ſaid French King ſhall have deliver'd ſome ſufficient cautionary Towns to be held and fortified by thoſe Proteſt<g ref="char:EOLhyphen"/>ant Allies that ſhall be made Guardians, or Conſervatours of the Treaty to be agreed upon</p>
+               <p n="6">VI. And Laſtly We Declare, as in the ſight of God, That in theſe our juſt attempts, We are not actuated by any hatred or animoſity againſt the French Nation, nor by any ambitious deſigns to Conquer or Seiſe on any of the Antient and Lawful Dominions of <hi>France,</hi> or to diſmember that Moarchy of any of the Provinces juſtly belonging to it, but that Our ultimate aim is only to repreſs that exorbitant Power whereby that Crown has been inabled hitherto to oppreſs its own Subjects, and Threaten the Liberty of all Europe beſides; And that We advance towards the Fronteers of <hi>France.</hi> with as hearty an intention to Rright the Wrongs of its Subjects, as thoſe of Our own people, eſtee<g ref="char:EOLhyphen"/>ming the reeſtabliſhment of their juſt and ancient Liberties, to be the beſt Bulwark of Our own, againſt Our and their Common Oppreſſour; And that therefore; We doe friendly and heartily invite them to come in to Us, and to joyn their Arms and other aſſi<g ref="char:EOLhyphen"/>ſtance with Us, towards their Deliverance, aſſuring them We will treat them as Our beſt friends, and will take care to preſerve their Perſons, Towns, Lands, and all that ſhall concern them as if they were our own; But at the ſame time We have thought fit alſo to Declare to all that ſhall not comply with Our invitations, and aſſiſtances intended for their Common good, That We ſhall Diſtinguiſh them for Enemies of their Country, and of all ſort of Chriſtianity, and Humanity, and as Barbarous wretches that have abetted, and approv'd all the perſecutions, Burnings, Deſolations, and other vexations which have been committed by thoſe of their Nation both within and without <hi>France,</hi> and ſhall make them feel without mercy thoſe pains which their inhumane Countrey-men have made ſo many thouſands of miſerable people ſuffer.</p>
+               <p>And We have thought fit to make Publick this our Declaration, that all the World might know the ſincerity of our Reſolutions, and particularly thoſe of the French Na<g ref="char:EOLhyphen"/>tion, which groan under the intolerable oppreſſion of the preſent Government there, and who with the loſs of their Liberty, have redoubl'd their deſires of Recovering it again, that they may be inform'd to whom, and with what confidence and aſſurance, they may apply themſelves, in this great opportunity offer'd them by the Juſt and Almighty God, to Regain their ancient freedom and priviledges which have been ſo long, and ſo cruel<g ref="char:EOLhyphen"/>ly extorted and detained from them.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed by</hi> H. Hills, <hi>in</hi> Black-Fryers.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
